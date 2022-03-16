@@ -31,7 +31,11 @@
 ## <a name="Resources"></a>Resources
 
 <a name="1">[1]</a> [Analysis Code 1 (Challenge)](https://github.com/tamiespinosa/PyBer_Analysis/blob/8ebcdeea678b7b5232dd7a593e6c8d62eb9b900a/PyBer_Challenge.ipynb)
+
 <a name="1">[2]</a> [Analysis Code 2](https://github.com/tamiespinosa/PyBer_Analysis/blob/8ebcdeea678b7b5232dd7a593e6c8d62eb9b900a/PyBer.ipynb)
+
 <a name="2">[3]</a> [City Data](https://github.com/tamiespinosa/PyBer_Analysis/blob/8ebcdeea678b7b5232dd7a593e6c8d62eb9b900a/Resources/city_data.csv)
+
 <a name="3">[4]</a> [Ride Data](https://github.com/tamiespinosa/PyBer_Analysis/blob/8ebcdeea678b7b5232dd7a593e6c8d62eb9b900a/Resources/ride_data.csv)
+
 [5] https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
