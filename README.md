@@ -9,6 +9,8 @@
 
 ## <a name="OverviewProject"></a>Overview of Project
 
+Pyber, a ride sharing app, wants their rides for different cities to be evaluated for 
+
 ### <a name="purpose"></a>Purpose
 
 [[1]](#1)[[2]](#2).
@@ -23,10 +25,6 @@
 [[1]](#1).
  [[2]](#2).
 
-...
-        candidate_name = row[2]
-        county_name =row[1]
-...
 
 ## <a name="Resources"></a>Resources
 
