@@ -69,7 +69,7 @@ We used python and matplotlib to create the analysis [[1]](#1)[[2]](#2).
 
 ## <a name="Summary"></a> Summary
 
-In general the price of the fares for rural areas is higher than in suburban and urban areas. Yet there's less number of rides and drivers in rural areas than in suburban and urban areas. This could be due to distances being longer in rural areas, therefore increasing the price of the ride. Additionally rural areas are less densely populated therefore decreasing the availability of drivers and number of rides. 
+In general the price of the fares for rural areas is higher than in suburban and urban areas. Yet there's less number of rides and drivers in rural areas than in suburban and urban areas. This could be due to distances being longer in rural areas, therefore increasing the price of the ride. Additionally rural areas are less densely populated therefore decreasing the availability of drivers and number of rides. Yet discounts in rural areas could incentivize the users to increase the number of rides which overtime could improve the profits for drivers. 
 
 ## <a name="Resources"></a>Resources
 
