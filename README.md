@@ -4,6 +4,10 @@
 - [Overview of Project](#OverviewProject)
   * [Purpose](#purpose)
 - [Results](#Results)
+  * [Scatter Plot](#scatter)
+  * [Box and Whisker Plots](#boxw)
+  * [Pie Charts](#piechart)
+  * [Line Chart](#linechart)
 - [Summary](#Summary)
 - [Resources](#Resources)
 
@@ -29,8 +33,13 @@ We used python and matplotlib to create the analysis [[1]](#1)[[2]](#2).
 
 ## <a name="Results"></a>Results
 
+### <a name="scatter"></a>Scatter Plot
+
 <p align="center"> <img src="analysis/Fig1.png" width ="70%" alt="Fig1"> </p>
 <p align="center"> Figure 1: Pyber Ride Sharing Data (2019) </p> 
+
+### <a name="boxw"></a>Box and Whisker Plots
+
 
 <p align="center"> <img src="analysis/Fig2.png" width ="70%" alt="Fig2"> </p>
 <p align="center"> Figure 2: Ride Count Box and Whisker Plot </p> 
@@ -41,6 +50,9 @@ We used python and matplotlib to create the analysis [[1]](#1)[[2]](#2).
 <p align="center"> <img src="analysis/Fig4.png" width ="70%" alt="Fig4"> </p>
 <p align="center"> Figure 4: Driver Count Box and Whisker Plot </p> 
 
+### <a name="piechart"></a>Pie Charts
+
+
 <p align="center"> <img src="analysis/Fig5.png" width ="70%" alt="Fig5"> </p>
 <p align="center"> Figure 5: Percentage of Total Fares per City Type </p> 
 
@@ -50,12 +62,14 @@ We used python and matplotlib to create the analysis [[1]](#1)[[2]](#2).
 <p align="center"> <img src="analysis/Fig7.png" width ="70%" alt="Fig7"> </p>
 <p align="center"> Figure 7: Percentage of Total Drivers per City Type </p> 
 
+### <a name="linechart"></a>Line Charts
+
 <p align="center"> <img src="analysis/Pyber_fare_summary.png" width ="100%" alt="Pyber_fare_summary"> </p>
 <p align="center"> Figure 8: Pyber Fare Summary</p> 
 
 ## <a name="Summary"></a> Summary
 
-
+In general the price of the fares for rural areas is higher than in suburban and urban areas. Yet there's less number of rides and drivers in rural areas than in suburban and urban areas. This could be due to distances being longer in rural areas, therefore increasing the price of the ride. Additionally rural areas are less densely populated therefore decreasing the availability of drivers and number of rides. 
 
 ## <a name="Resources"></a>Resources
 
