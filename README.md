@@ -64,6 +64,8 @@ We used python and matplotlib to create the analysis [[1]](#1)[[2]](#2).
 
 ### <a name="linechart"></a>Line Charts
 
+In this graph we can see that although there is no noticeable tren of when the prices will increase or decrease, except maybe a slight peak towards the end of February, the tital fares of urban cities are always about 3-4 times higher than those of rural cities, and suburban cities are about twice as high as rural cities. Urban cities always compromise the majority of the total fares Pyber has. 
+
 <p align="center"> <img src="analysis/Pyber_fare_summary.png" width ="100%" alt="Pyber_fare_summary"> </p>
 <p align="center"> Figure 8: Pyber Fare Summary</p> 
 
