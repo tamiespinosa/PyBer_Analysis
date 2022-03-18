@@ -42,6 +42,7 @@ In this graph the size of the bubles represents the number of drivers per city. 
 
 ### <a name="boxw"></a>Box and Whisker Plots
 
+The Box and Whisker charts for the ride count, ride fare and driver count per city type paint a more detailed picture of the market distribution for Urban, Suburban and Rural cities. The average number of rides for rural cities is 4 times less than for urban cities and almost 3 times less than for suburban cities. Yet the prices are not as drastically different. The average total fare for rural cities is higher than for suburban and urban cities. If you take into account the earning potential in a city tends to be higher than in a rural setting, it makes sense that the number of rides in rural settings are lower which makes the need for drivers also lower.  
 
 <p align="center"> <img src="analysis/Fig2.png" width ="70%" alt="Fig2"> </p>
 <p align="center"> Figure 2: Ride Count Box and Whisker Plot </p> 
