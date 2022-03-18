@@ -35,6 +35,8 @@ We used python and matplotlib to create the analysis [[1]](#1)[[2]](#2).
 
 ### <a name="scatter"></a>Scatter Plot
 
+In this graph the size of the bubles represents the number of drivers per city. Generally the trend indicates that there are higher number of rides and lower avaerage fares per city in urban cities. Whereas in suburban ciries, the number of fares tends to decrease and the average fare price tends to increase. Finally rural cities tend to have the lowest number of rides and drivers and yet they tend to have the highest average fares per city. 
+
 <p align="center"> <img src="analysis/Fig1.png" width ="70%" alt="Fig1"> </p>
 <p align="center"> Figure 1: Pyber Ride Sharing Data (2019) </p> 
 
