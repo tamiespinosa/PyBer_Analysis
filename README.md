@@ -54,6 +54,7 @@ In this graph the size of the bubles represents the number of drivers per city. 
 
 ### <a name="piechart"></a>Pie Charts
 
+When looking at the percentage of total fares, percentage of total rides and total drivers per city type it is clear that PyBer's business in compromised in its majority by urban cities, followed by suburban cities. Rural cities in all three cases compromise less than 7% of the market, with the total fares being 6.8%, the total rides being 5.3% and the total drivers being 2.6%. This indicates a potential to increase business both in rural and suburban cities. 
 
 <p align="center"> <img src="analysis/Fig5.png" width ="70%" alt="Fig5"> </p>
 <p align="center"> Figure 5: Percentage of Total Fares per City Type </p> 
